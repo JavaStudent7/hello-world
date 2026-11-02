@@ -16,7 +16,6 @@ public class HelloWorld //<--- Project from chapeter3. Written by Rena Kennedy
       
       //Output : read the user input and stored variables
       System.out.println("Hello world!");
-      System.out.println("Program modified, but able to revert to original version using GetHub Desktop.");
       
     }
      
